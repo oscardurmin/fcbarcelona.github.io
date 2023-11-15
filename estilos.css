@@ -164,21 +164,18 @@
 	#xavicoach {
 		width: 35%;
 		float: right;
-		margin-bottom: 50px;
 		margin-top: 15px;
 		margin-left: 10px;
 		border: inset 6px;
 	}
 	#xavibb {
-		width: 60%;
-		margin-top: 10px;
-		margin-left: 370px;
+		width: 360px;
 		border: double 5px;
+		margin-right: 150px;
+		
 	}
 	#xavi {
-		width: 60%;
-		margin-top: 25px;
-		margin-left: 150px;
+		width: 370px;
 		border: double 5px;
 	}
 	#ronny {
